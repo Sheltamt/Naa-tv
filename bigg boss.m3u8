@@ -1,37 +1,88 @@
 #EXTM3U x-tvg-url=""
+# By @Premium Plug X — Supercharged Edition
+# Generated: 2026-09-19 13:35:32 UTC
+# Events: 12
 
-#EXTINF:-1 tvg-id="BiggBossTelugu" tvg-name="Bigg Boss Telugu" tvg-logo="https://www.hotstar.com/favicon.ico" group-title="Bigg Boss 24/7",Bigg Boss Telugu
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)
+#EXTINF:-1 tvg-id="1271698284" tvg-name="BBS84: MALAYALAM By @Premium Plug X" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/5711/1789027865711-t" group-title="Bigg Boss",BBS84: MALAYALAM By @Premium Plug X
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTHTTP:{"Cookie":"hdntl=exp=1789793027~acl=%2f*~id=138336710c7a44570e5e311aa10cad5d~data=hdntl~hmac=9f4ad820b76d2e626dd978f7fc811c468f421eb2745f3c7e9b6a92bb99f0b84f","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)"}
-https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tel-2026/f129670ca03b4bb988c841f9bbdce777/index_6.m3u8?|cookie=hdntl=exp=1789793027~acl=%2f*~id=138336710c7a44570e5e311aa10cad5d~data=hdntl~hmac=9f4ad820b76d2e626dd978f7fc811c468f421eb2745f3c7e9b6a92bb99f0b84f&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)|user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)&referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:audio-language=mal
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-mal-2026/28fdd2300bf04a60ac3c3318ff009886/index.m3u8?aws.manifestfilter=video_height:0-1080&hdnea=exp=1789825431~data=ip%3dvVS0TY4scasrkHpavbQ1MM-userid%3d3IiUYM7onTzObTmdwWkLOIe0bnXS6Z1kHh2uPoazPAJO-did%3dFisA98YGNmOly7liUGRASKhjw39He0xQsh74qx99DQfY-cc%3din-bl%3djhs-ctype%3dshow_live-de%3d1-pl%3dweb-ap%3d26.08.27.0-ut%3dfree-fpassv2-ttl%3d1800-type%3dpaid-~hmac=eed678c92001c9d47fd31ff3f2a6f44956f306ba19a78bf53e192092d92da43f
 
-#EXTINF:-1 tvg-id="BiggBossHindi" tvg-name="Bigg Boss Hindi" tvg-logo="https://www.hotstar.com/favicon.ico" group-title="Bigg Boss 24/7",Bigg Boss Hindi
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)
+#EXTINF:-1 tvg-id="1271698292" tvg-name="BBS92: TELUGU By @Premium Plug X" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/1959/1788959241959-t" group-title="Bigg Boss",BBS92: TELUGU By @Premium Plug X
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTHTTP:{"Cookie":"hdntl=exp=1789793027~acl=%2f*~id=138336710c7a44570e5e311aa10cad5d~data=hdntl~hmac=9f4ad820b76d2e626dd978f7fc811c468f421eb2745f3c7e9b6a92bb99f0b84f","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)"}
-https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-hin-2026/93e0d4ee03b34575bbf8f8a55824de63/index_6.m3u8?|cookie=hdntl=exp=1789793027~acl=%2f*~id=138336710c7a44570e5e311aa10cad5d~data=hdntl~hmac=9f4ad820b76d2e626dd978f7fc811c468f421eb2745f3c7e9b6a92bb99f0b84f&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)|user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)&referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:audio-language=tel
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tel-2026/f129670ca03b4bb988c841f9bbdce777/index.m3u8?aws.manifestfilter=video_height:0-1080&hdnea=exp=1789825430~data=ip%3dvVS0TY4scasrkHpavbQ1MM-userid%3d3IiUYM7onTzObTmdwWkLOIe0bnXS6Z1kHh2uPoazPAJO-did%3dFisA98YGNmOly7liUGRASKhjw39He0xQsh74qx99DQfY-cc%3din-bl%3djhs-ctype%3dshow_live-de%3d1-pl%3dweb-ap%3d26.08.27.0-ut%3dfree-fpassv2-ttl%3d1800-type%3dpaid-~hmac=6c7aa028fde96e4f69eccb5b960e2a39fa0dc59f0c072fafa978befa87431faf
 
-#EXTINF:-1 tvg-id="BiggBossTamil" tvg-name="Bigg Boss Tamil" tvg-logo="https://www.hotstar.com/favicon.ico" group-title="Bigg Boss 24/7",Bigg Boss Tamil
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)
+#EXTINF:-1 tvg-id="1271698289" tvg-name="BBS89: TAMIL By @Premium Plug X" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/8143/1789158098143-t" group-title="Bigg Boss",BBS89: TAMIL By @Premium Plug X
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTHTTP:{"Cookie":"hdntl=exp=1789793027~acl=%2f*~id=138336710c7a44570e5e311aa10cad5d~data=hdntl~hmac=9f4ad820b76d2e626dd978f7fc811c468f421eb2745f3c7e9b6a92bb99f0b84f","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)"}
-https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tam-2026/0e8f0050df134b708ab297477fbf0e86/index_6.m3u8?|cookie=hdntl=exp=1789793027~acl=%2f*~id=138336710c7a44570e5e311aa10cad5d~data=hdntl~hmac=9f4ad820b76d2e626dd978f7fc811c468f421eb2745f3c7e9b6a92bb99f0b84f&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)|user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)&referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:audio-language=tam
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tam-2026/0e8f0050df134b708ab297477fbf0e86/index.m3u8?aws.manifestfilter=video_height:0-1080&hdnea=exp=1789825430~data=ip%3dvVS0TY4scasrkHpavbQ1MM-userid%3d3IiUYM7onTzObTmdwWkLOIe0bnXS6Z1kHh2uPoazPAJO-did%3dFisA98YGNmOly7liUGRASKhjw39He0xQsh74qx99DQfY-cc%3din-bl%3djhs-ctype%3dshow_live-de%3d1-pl%3dweb-ap%3d26.08.27.0-ut%3dfree-fpassv2-ttl%3d1800-type%3dpaid-~hmac=2ec86cc45eccad6d8379c706392459fc6ef60af2307e4465b0ba2dd3b84e0fa1
 
-#EXTINF:-1 tvg-id="BiggBossMalayalam" tvg-name="Bigg Boss Malayalam" tvg-logo="https://www.hotstar.com/favicon.ico" group-title="Bigg Boss 24/7",Bigg Boss Malayalam
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)
+#EXTINF:-1 tvg-id="1271698294" tvg-name="BBS94: KANNADA By @Premium Plug X" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/374/1788795320374-t" group-title="Bigg Boss",BBS94: KANNADA By @Premium Plug X
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTHTTP:{"Cookie":"hdntl=exp=1789793027~acl=%2f*~id=138336710c7a44570e5e311aa10cad5d~data=hdntl~hmac=9f4ad820b76d2e626dd978f7fc811c468f421eb2745f3c7e9b6a92bb99f0b84f","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)"}
-https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-mal-2026/28fdd2300bf04a60ac3c3318ff009886/index_6.m3u8?|cookie=hdntl=exp=1789793027~acl=%2f*~id=138336710c7a44570e5e311aa10cad5d~data=hdntl~hmac=9f4ad820b76d2e626dd978f7fc811c468f421eb2745f3c7e9b6a92bb99f0b84f&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)|user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)&referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:audio-language=kan
+https://live09p.hotstar.com/mp1/incagbsgallow-biggboss-kan-2026/511768cd9dab414aa551e9d15da2202b/index.m3u8?aws.manifestfilter=video_height:0-1080&hdnea=exp=1789825431~data=ip%3dvVS0TY4scasrkHpavbQ1MM-userid%3d3IiUYM7onTzObTmdwWkLOIe0bnXS6Z1kHh2uPoazPAJO-did%3dFisA98YGNmOly7liUGRASKhjw39He0xQsh74qx99DQfY-cc%3din-bl%3djhs-ctype%3dshow_live-de%3d1-pl%3dweb-ap%3d26.08.27.0-ut%3dfree-fpassv2-ttl%3d1800-type%3dpaid-~hmac=ca2f739fd8fe3d4aec922c209adecfb872658d33007f2b04c3646205b6c32435
 
-#EXTINF:-1 tvg-id="BiggBossBangla" tvg-name="Bigg Boss Bangla" tvg-logo="https://www.hotstar.com/favicon.ico" group-title="Bigg Boss 24/7",Bigg Boss Bangla
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)
+#EXTINF:-1 tvg-id="1271698275" tvg-name="BBS75: HINDI By @Premium Plug X" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/9539/1789581369539-t" group-title="Bigg Boss",BBS75: HINDI By @Premium Plug X
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTHTTP:{"Cookie":"hdntl=exp=1789793027~acl=%2f*~id=138336710c7a44570e5e311aa10cad5d~data=hdntl~hmac=9f4ad820b76d2e626dd978f7fc811c468f421eb2745f3c7e9b6a92bb99f0b84f","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)"}
-https://live09p.hotstar.com/mp1/incagbsgallow-biggboss-ben-2026/d8b1f4b4b6ad493d845fb9669712ee6e/index_6.m3u8?|cookie=hdntl=exp=1789793027~acl=%2f*~id=138336710c7a44570e5e311aa10cad5d~data=hdntl~hmac=9f4ad820b76d2e626dd978f7fc811c468f421eb2745f3c7e9b6a92bb99f0b84f&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)|user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)&referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:audio-language=hin
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-hin-2026/93e0d4ee03b34575bbf8f8a55824de63/index.m3u8?aws.manifestfilter=video_height:0-1080&hdnea=exp=1789825430~data=ip%3dvVS0TY4scasrkHpavbQ1MM-userid%3d3IiUYM7onTzObTmdwWkLOIe0bnXS6Z1kHh2uPoazPAJO-did%3dFisA98YGNmOly7liUGRASKhjw39He0xQsh74qx99DQfY-cc%3din-bl%3djhs-ctype%3dshow_live-de%3d1-pl%3dweb-ap%3d26.08.27.0-ut%3dfree-fpassv2-ttl%3d1800-type%3dpaid-~hmac=97d620221c49812bd1fa50c2914c08fffbf15d84686b08e8176b5e2066f15c16
 
-#EXTINF:-1 tvg-id="BiggBossKannada" tvg-name="Bigg Boss Kannada" tvg-logo="https://www.hotstar.com/favicon.ico" group-title="Bigg Boss 24/7",Bigg Boss Kannada
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)
+#EXTINF:-1 tvg-id="1540079658" tvg-name="Brighton vs Arsenal By @Premium Plug X" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/9158/1789731649158-t" group-title="Sports",Brighton vs Arsenal By @Premium Plug X
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTHTTP:{"Cookie":"hdntl=exp=1789793027~acl=%2f*~id=138336710c7a44570e5e311aa10cad5d~data=hdntl~hmac=9f4ad820b76d2e626dd978f7fc811c468f421eb2745f3c7e9b6a92bb99f0b84f","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)"}
-https://live09p.hotstar.com/mp1/incagbsgallow-biggboss-kan-2026/511768cd9dab414aa551e9d15da2202b/index_6.m3u8?|cookie=hdntl=exp=1789793027~acl=%2f*~id=138336710c7a44570e5e311aa10cad5d~data=hdntl~hmac=9f4ad820b76d2e626dd978f7fc811c468f421eb2745f3c7e9b6a92bb99f0b84f&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)|user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)&referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:audio-language=eng
+https://live09p.hotstar.com/mp1/inallow-epl-2026-27-1540079658/c49cebc1d14a456096d18452aeb630f0/vyaos9/index.m3u8?aws.manifestfilter=video_height:0-1080&hdnea=exp=1789825428~data=ip%3dvVS0TY4scasrkHpavbQ1MM-userid%3d3IiUYM7onTzObTmdwWkLOIe0bnXS6Z1kHh2uPoazPAJO-did%3dFisA98YGNmOly7liUGRASKhjw39He0xQsh74qx99DQfY-cc%3din-bl%3djhs-ctype%3dsport_live-de%3d1-pl%3dweb-ap%3d26.08.27.0-ut%3dfree-fpassv2-ttl%3d1800-type%3dpaid-~hmac=85bf6ca616513b6d7ccb8349c8f08f0563215879a0ebd86be2d944feb6b92384
+
+#EXTINF:-1 tvg-id="1540079631" tvg-name="Everton vs Ipswich Town By @Premium Plug X" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/5886/1789731935886-t" group-title="Sports",Everton vs Ipswich Town By @Premium Plug X
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:audio-language=eng
+https://live09p.hotstar.com/mp2/inallow-epl-2026-27-1540079631/ae7f54a4d7d046e4ad253bb8045f9c24/980igm/index.m3u8?aws.manifestfilter=video_height:0-1080&hdnea=exp=1789825429~data=ip%3dvVS0TY4scasrkHpavbQ1MM-userid%3d3IiUYM7onTzObTmdwWkLOIe0bnXS6Z1kHh2uPoazPAJO-did%3dFisA98YGNmOly7liUGRASKhjw39He0xQsh74qx99DQfY-cc%3din-bl%3djhs-ctype%3dsport_live-de%3d1-pl%3dweb-ap%3d26.08.27.0-ut%3dfree-fpassv2-ttl%3d1800-type%3dpaid-~hmac=c32a15c05ab7173ff46f12ce17018b530608a21a765d1b50560c3c634abdd0df
+
+#EXTINF:-1 tvg-id="1540079876" tvg-name="Korfball Premier League 2026: Day 1 By @Premium Plug X" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/729/1789822080729-t" group-title="Sports",Korfball Premier League 2026: Day 1 By @Premium Plug X
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:audio-language=eng
+https://live15p.hotstar.com/hls/live/2123207/inallow-kortball-2026/hin/1540079876/15mindvrm01a8f7249d772f4209806d6cf56d26fd0419september2026/master_ap.m3u8?a=ns&hdnea=exp=1789825425~acl=%2fhls%2flive%2f2123207%2finallow-kortball-2026%2fhin%2f1540079876%2f15mindvrm01a8f7249d772f4209806d6cf56d26fd0419september2026%2fmaster_ap%2a~data=ip%3dvVS0TY4scasrkHpavbQ1MM-userid%3d3IiUYM7onTzObTmdwWkLOIe0bnXS6Z1kHh2uPoazPAJO-did%3dFisA98YGNmOly7liUGRASKhjw39He0xQsh74qx99DQfY-cc%3din-bl%3djhs-ctype%3dsport_live-de%3d1-pl%3dweb-ap%3d26.08.27.0-ut%3dfree-fpassv2-ttl%3d1800-type%3dpaid-~hmac=5370bde566e815f05531baa9751baaf381d23159e64198318efee0a3ab0c90f3
+
+#EXTINF:-1 tvg-id="1540079637" tvg-name="Newcastle vs Hull City By @Premium Plug X" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/338/1789732200338-t" group-title="Sports",Newcastle vs Hull City By @Premium Plug X
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:audio-language=eng
+https://live09p.hotstar.com/mp1/inallow-epl-2026-27-1540079637/11a492f41725415596fcebde82f3ea61/83kzce/index.m3u8?aws.manifestfilter=video_height:0-1080&hdnea=exp=1789825429~data=ip%3dvVS0TY4scasrkHpavbQ1MM-userid%3d3IiUYM7onTzObTmdwWkLOIe0bnXS6Z1kHh2uPoazPAJO-did%3dFisA98YGNmOly7liUGRASKhjw39He0xQsh74qx99DQfY-cc%3din-bl%3djhs-ctype%3dsport_live-de%3d1-pl%3dweb-ap%3d26.08.27.0-ut%3dfree-fpassv2-ttl%3d1800-type%3dpaid-~hmac=799450be5875bc758e6776e43c82afae75ff81dd709e6cd5445d3bfc8e33535d
+
+#EXTINF:-1 tvg-id="1540077394" tvg-name="Qualifier: Belfast Wolves vs Amsterdam Flames By @Premium Plug X" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/6699/1789733236699-t" group-title="Sports",Qualifier: Belfast Wolves vs Amsterdam Flames By @Premium Plug X
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:audio-language=eng
+https://live15p.hotstar.com/hls/live/2123198/inallow-european-2026/eng/1540077394/15mindvrm018c6bb6309e604f2881e6b25729f500b019september2026/master_ap.m3u8?a=ns&hdnea=exp=1789825426~acl=%2fhls%2flive%2f2123198%2finallow-european-2026%2feng%2f1540077394%2f15mindvrm018c6bb6309e604f2881e6b25729f500b019september2026%2fmaster_ap%2a~data=ip%3dvVS0TY4scasrkHpavbQ1MM-userid%3d3IiUYM7onTzObTmdwWkLOIe0bnXS6Z1kHh2uPoazPAJO-did%3dFisA98YGNmOly7liUGRASKhjw39He0xQsh74qx99DQfY-cc%3din-bl%3djhs-ctype%3dsport_live-de%3d1-pl%3dweb-ap%3d26.08.27.0-ut%3dfree-fpassv2-ttl%3d1800-type%3dpaid-~hmac=4bc8ac63be223e2f4d8539ecf3b06e5fa6cc7e52cf84d9c20615af6330b0ff91
+
+#EXTINF:-1 tvg-id="1540079655" tvg-name="Tottenham Hotspur vs Aston Villa By @Premium Plug X" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/443/1789731260443-t" group-title="Sports",Tottenham Hotspur vs Aston Villa By @Premium Plug X
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:audio-language=eng
+https://live09p.hotstar.com/mp2/inallow-epl-2026-27-1540079655/9c36b42c084e48cfb621aeb0888e2be9/psd2uy/index.m3u8?aws.manifestfilter=video_height:0-1080&hdnea=exp=1789825425~data=ip%3dvVS0TY4scasrkHpavbQ1MM-userid%3d3IiUYM7onTzObTmdwWkLOIe0bnXS6Z1kHh2uPoazPAJO-did%3dFisA98YGNmOly7liUGRASKhjw39He0xQsh74qx99DQfY-cc%3din-bl%3djhs-ctype%3dsport_live-de%3d1-pl%3dweb-ap%3d26.08.27.0-ut%3dfree-fpassv2-ttl%3d1800-type%3dpaid-~hmac=887436d7ee301fb7f8b3303ea789a6f0c0f0d806ff8fd276376bd1393fb6f888
+
+#EXTINF:-1 tvg-id="1540080053" tvg-name="Vizag Firebirds vs Amaravati E Champions By @Premium Plug X" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/7814/1789732737814-t" group-title="Sports",Vizag Firebirds vs Amaravati E Champions By @Premium Plug X
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:audio-language=eng
+https://abgpb7eaaaaaaaamij6yrrxsmkefg.live-cf.cdn.hotstar.com/hls/live/2123184/inallow-wandhrapl-2026/eng/1540080053/15mindvrm02d28f06a52bfd4b4398df8ae6d517a20419september2026/master_ap.m3u8?a=ns&ttl=86400&hdnea=exp=1789825526~acl=/hls/live/2123184/inallow-wandhrapl-2026/eng/1540080053/15mindvrm02d28f06a52bfd4b4398df8ae6d517a20419september2026/master_ap~ttl=1800~type=paid~data=ip=vVS0TY4scasrkHpavbQ1MM-userid=3IiUYM7onTzObTmdwWkLOIe0bnXS6Z1kHh2uPoazPAJO-did=FisA98YGNmOly7liUGRASKhjw39He0xQsh74qx99DQfY-cc=in-bl=jhs-ctype=sport_live-de=1-pl=web-ap=26.08.27.0-ut=free-fpassv2-~hmac=cd17587b9ec9ce3bdb71b410464dd442dffcdf21c96c0c08ce5a76c09c4f2677&Expires=1789825526&Signature=MYakAmOsdya2d3cebGR5gWU8vSOQQDnIKSxGBAaai4AbZ6uN1oYizwjA4LrftNtwecKhuQUdCBt~7JOePvWXCyOYzrwn65pbY1a72MbPp~dJ8euIqGG3sGQOnIadc62MKAbltDpS0U-eEy4ke2G~WByaABcLt3ilEv~dzEwIAgmAWIDXJIf4gDB74MbJ482PMJ2MTkcPfO8AP5whblOGOusTt3CLjb7gRCB4QTAQ8h95so79c97o-S2iTVztHxnx8LaEJZ-f3BU1akvVdSWeR48jNip1dDx-YxDJvarqef73JNT616hcJLEeVeOP6OD6YuuXVS3TcHvm0Di6L~ZLaw__&Key-Pair-Id=APKAJC3ILMJXG4AINKJA
