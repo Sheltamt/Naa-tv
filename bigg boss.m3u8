@@ -1,9 +1,11 @@
 #EXTINF:-1 tvg-logo="Https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5425/1788707405425-b" group-title="MALAYALAM",BBS08 24X7 STREAM DEFERRED
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTHTTP:{"Cookie":"hdntl=exp=1790157751~acl=%2f*~id=ab65f10167d0f43f2a49e5f84f8cdea8~data=hdntl~hmac=30b18df461b61ff29904800868a50f10225ce73b378149d56a8feb6adbd29bf4","User-Agent":"Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
 https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-mal-2026/28fdd2300bf04a60ac3c3318ff009886/index.m3u8?a=ns&ttl=86400&hdnea=exp=1790157751~acl=%2f*~id=ab65f10167d0f43f2a49e5f84f8cdea8~data=hdntl~hmac=30b18df461b61ff29904800868a50f10225ce73b378149d56a8feb6adbd29bf4|User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&Cookie=hdntl=exp=1790157751~acl=%2f*~id=ab65f10167d0f43f2a49e5f84f8cdea8~data=hdntl~hmac=30b18df461b61ff29904800868a50f10225ce73b378149d56a8feb6adbd29bf4
 
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3541/1788705493541-b" group-title="TELUGU",BBS10 24X7 STREAM DEFERRED
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTHTTP:{"Cookie":"hdntl=exp=1790157943~acl=%2f*~id=3dec8910aefb839468fed9f9d309ac3b~data=hdntl~hmac=193e6679d8d3e91e5db951651a400d7a66084d50aa38befe37b93995268347f5","User-Agent":"Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
 https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tel-2026/f129670ca03b4bb988c841f9bbdce777/index.m3u8?a=ns&ttl=86400&hdnea=exp=1790157943~acl=%2f*~id=3dec8910aefb839468fed9f9d309ac3b~data=hdntl~hmac=193e6679d8d3e91e5db951651a400d7a66084d50aa38befe37b93995268347f5|User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&Cookie=hdntl=exp=1790157943~acl=%2f*~id=3dec8910aefb839468fed9f9d309ac3b~data=hdntl~hmac=193e6679d8d3e91e5db951651a400d7a66084d50aa38befe37b93995268347f5
